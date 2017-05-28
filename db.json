@@ -1,0 +1,19 @@
+{
+    "users":[
+        {"id": "1", "firstName": "Rafael", "age": 31, "companyId": "2"},
+        {"id": "2", "firstName": "Giuliana", "age": 31, "companyId": "2"},
+        {"id": "3", "firstName": "José", "age": 1, "companyId": "1"},
+        {"id": "4", "firstName": "Maria", "age": 65, "companyId": "1"},
+        {"id": "5", "firstName": "Marcelo", "age": 30, "companyId": "3"},
+        {"id": "6", "firstName": "Tania", "age": 28, "companyId": "4"},
+        {"id": "7", "firstName": "Fatima", "age": 50, "companyId": "4"},
+        {"id": "8", "firstName": "João", "age": 15, "companyId": "4"}
+    ],
+
+    "companies": [
+        {"id": 1, "name": "Apple", "description": "Technology"},
+        {"id": 2, "name": "Facebook", "description": "Technology"},
+        {"id": 3, "name": "Meteor", "description": "Technology"},
+        {"id": 4, "name": "Amazon", "description": "Sales"}
+    ]
+}
